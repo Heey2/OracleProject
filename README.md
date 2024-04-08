@@ -23,7 +23,7 @@
 
 ### 📜 Documents
 1. [요구분석서](https://github.com/Heey2/OracleProject/blob/main/4%EC%A1%B0%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%EC%84%9C.pdf)
-2. [순서도](https://github.com/Heey2/OracleProject/blob/main/4%EC%A1%B0%20%EC%88%9C%EC%84%9C%EB%8F%84)
+2. [순서도](https://github.com/Heey2/OracleProject/blob/main/4%EC%A1%B0%20%EC%88%9C%EC%84%9C%EB%8F%84.png)
 3. [ERD](https://github.com/Heey2/OracleProject/blob/main/4%EC%A1%B0erd.exerd)
 4. [발표 자료](https://github.com/Heey2/OracleProject/blob/main/%EC%98%A4%EB%9D%BC%ED%81%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%204%EC%A1%B0_%EA%B5%90%EC%9C%A1%EC%84%BC%ED%84%B0%20%20%EC%9A%B4%EC%98%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf)
 5. [요약본](https://github.com/Heey2/OracleProject/blob/main/4%EC%A1%B0%20%EC%B5%9C%EC%A2%85%EC%9A%94%EC%95%BD%EB%B3%B8.pdf)
