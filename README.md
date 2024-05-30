@@ -32,13 +32,13 @@
 
 ### 😀  해당 프로젝트 참가 멤버
 
-|이름|깃허브 주소|비고|
-|------|---|---|
-|김민곤|https://github.com/kmggmk|테스트3|
-|김희연|https://github.com/Heey2|테스트3|
-|장원준|https://github.com/juniel1299|테스트3|
-|정원혁|https://github.com/wonhyuk21|테스트3|
-|정혜정|https://github.com/VVjD|테스트3|
+|이름|깃허브 주소|
+|------|---|
+|김민곤|https://github.com/kmggmk|
+|김희연|https://github.com/Heey2|
+|장원준|https://github.com/juniel1299|
+|정원혁|https://github.com/wonhyuk21|
+|정혜정|https://github.com/VVjD|
 
 
 
