@@ -21,7 +21,7 @@
 
 ----
 
-### 📜 Documents
+### 📜 프로젝트 결과물 - Documents (클릭하시면 문서화면으로 넘어갑니다!)
 1. [요구분석서](https://github.com/Heey2/OracleProject/blob/main/4%EC%A1%B0%20%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D%EC%84%9C.pdf)
 2. [순서도](https://github.com/Heey2/OracleProject/blob/main/%EC%88%9C%EC%84%9C%EB%8F%84.png)
 3. [ERD](https://github.com/Heey2/OracleProject/blob/main/4%EC%A1%B0erd.exerd)
